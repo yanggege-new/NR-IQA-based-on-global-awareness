@@ -11,5 +11,7 @@ We used a total of six datasets:LIVE,CSIQ,TID2013,KADID,CLIVE,KonIQ-10k
 Environments
 
 Platform: PyTorch 2.1.2
+
 CUDA Version 12.1
+
 GPU: NVIDIA GeForce RTX 4090
